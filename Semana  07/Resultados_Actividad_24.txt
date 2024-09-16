@@ -1,0 +1,109 @@
+1
+
++-------------------+-----------+----------+
+|      Nombre       | Extension | TamañoMB |
++-------------------+-----------+----------+
+| Backup Sistema    | zip       |      100 |
+| Audio Conferencia | mp3       |       50 |
+| Video Promocional | mp4       |      100 |
+| Backup Datos      | zip       |      200 |
+| Video Corporativo | mp4       |      150 |
+| Archivo de Código | zip       |      100 |
++-------------------+-----------+----------+
+
+2
+
+
++---------+-----------+
+| Nombre  | Apellido  |
++---------+-----------+
+| María   | González  |
+| Carlos  | López     |
+| Ana     | Martínez  |
+| Luis    | Fernández |
+| John    | Smith     |
+| Emily   | Johnson   |
+| Michael | Williams  |
+| David   | Jones     |
++---------+-----------+
+
+3
+
+
++-----------+-----------+---------+-------------------------+
+| IDUsuario | Apellido  | Nombre  |       TipoUsuario       |
++-----------+-----------+---------+-------------------------+
+|         2 | González  | María   | Suscripción Básica      |
+|         3 | López     | Carlos  | Suscripción Plus        |
+|         4 | Martínez  | Ana     | Suscripción Premium     |
+|         5 | Fernández | Luis    | Suscripción Empresarial |
+|         6 | Smith     | John    | Suscripción Free        |
+|         7 | Johnson   | Emily   | Suscripción Básica      |
+|         9 | Brown     | Jessica | Suscripción Premium     |
+|        10 | Jones     | David   | Suscripción Empresarial |
++-----------+-----------+---------+-------------------------+
+
+4
+
++-------------------------+
+|       TipoUsuario       |
++-------------------------+
+| Suscripción Empresarial |
++-------------------------+
+
+6
+
++-----------------------+-----------+-----------+
+|        Nombre         | Extension |  Tamaño   |
++-----------------------+-----------+-----------+
+| Backup Sistema        | zip       | 104857600 |
+| Presentación Proyecto | pptx      |    307200 |
+| Audio Conferencia     | mp3       |  52428800 |
+| Video Promocional     | mp4       | 104857600 |
+| Backup Datos          | zip       | 209715200 |
+| Video Corporativo     | mp4       | 157286400 |
+| Archivo de Código     | zip       | 104857600 |
++-----------------------+-----------+-----------+
+
+9
+
++-----------+-----------+---------+------------------+-----------------+
+| IDUsuario | Apellido  | Nombre  | ArchivosPequenos | ArchivosGrandes |
++-----------+-----------+---------+------------------+-----------------+
+|         1 | Clarck    | Adrián  |                2 |               2 |
+|         2 | González  | María   |                5 |               0 |
+|         3 | López     | Carlos  |                2 |               1 |
+|         4 | Martínez  | Ana     |                6 |               0 |
+|         5 | Fernández | Luis    |                1 |               2 |
+|         6 | Smith     | John    |                4 |               0 |
+|         7 | Johnson   | Emily   |                3 |               0 |
+|         8 | Williams  | Michael |                4 |               0 |
+|         9 | Brown     | Jessica |                3 |               1 |
+|        10 | Jones     | David   |                0 |               0 |
++-----------+-----------+---------+------------------+-----------------+
+
+10
+
++-----------+-----------+---------+----------------------+----------------------+----------------------+
+| IDUsuario | Apellido  | Nombre  | CantidadArchivos2022 | CantidadArchivos2023 | CantidadArchivos2024 |
++-----------+-----------+---------+----------------------+----------------------+----------------------+
+|         1 | Clarck    | Adrián  |                    1 |                    1 |                    1 |
+|         2 | González  | María   |                    2 |                    0 |                    0 |
+|         3 | López     | Carlos  |                    0 |                    2 |                    0 |
+|         4 | Martínez  | Ana     |                    2 |                    1 |                    0 |
+|         5 | Fernández | Luis    |                    0 |                    2 |                    0 |
+|         6 | Smith     | John    |                    1 |                    1 |                    0 |
+|         7 | Johnson   | Emily   |                    2 |                    0 |                    0 |
+|         8 | Williams  | Michael |                    0 |                    2 |                    1 |
+|         9 | Brown     | Jessica |                    0 |                    2 |                    0 |
+|        10 | Jones     | David   |                    0 |                    0 |                    0 |
++-----------+-----------+---------+----------------------+----------------------+----------------------+
+
+14
+
++-----------+----------+--------+----------------------+----------------------+----------------------+
+| IDUsuario | Apellido | Nombre | CantidadArchivos2022 | CantidadArchivos2023 | CantidadArchivos2024 |
++-----------+----------+--------+----------------------+----------------------+----------------------+
+|         4 | Martínez | Ana    |                    2 |                    1 |                    0 |
++-----------+----------+--------+----------------------+----------------------+----------------------+
+
