@@ -2,7 +2,7 @@
 -- Drop Database EjemploTransacciones
 Create Database EjemploTransacciones
 Collate Latin1_General_CI_AI
-
+ 
 Use EjemploTransacciones
 
 Create Table Clientes(
